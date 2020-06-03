@@ -10,6 +10,6 @@
 * Accuweather free API has limit to daily request. So, if your city name is correct, please try the next day
 
 ### Demo
-This app is live here
+This app is live [here](https://surojmaharjan0.github.io/weatherapp/)
 * Version **1.0.0**
 * Author **Suroj Maharjan**
