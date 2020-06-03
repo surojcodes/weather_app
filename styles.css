@@ -1,5 +1,5 @@
 body{
-  background: #364f6b;
+  background: #0E111F;
   letter-spacing: 0.2em;
   font-size: 0.8em;
 }
@@ -11,9 +11,19 @@ body{
   width: 100px;
   margin-top: 20px;
 }
-.text-pink{
-  color:#fc5185;
+.text-blue{
+  color:#0081FF;
+}
+.loader{
+  display: none;
 }
 .card{
-  background: #f0f0f0;
+  margin-top:5em;
+  background:rgb(231, 226, 226);
+}
+.text-red{
+  color:#c03546;
+}
+.mt-3{
+  margin-top:30px;
 }
