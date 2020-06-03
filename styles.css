@@ -1,0 +1,19 @@
+body{
+  background: #364f6b;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container{
+  max-width: 400px;
+}
+.icon{
+  border-radius: 50%;
+  width: 100px;
+  margin-top: 20px;
+}
+.text-pink{
+  color:#fc5185;
+}
+.card{
+  background: #f0f0f0;
+}
